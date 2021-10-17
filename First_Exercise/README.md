@@ -28,33 +28,40 @@ Para definir quais as colunas deveriam de ser removidas foi utilizada a matriz d
 **1. Colunas removidas:**
 
 ```
-'Id',
-'diferenciais',
-'tipo_vendedor',
-'churrasqueira',
-'quadra',
-'s_jogos',
-'s_ginastica',
-'area_extra'
+'produto_solicitado',
+'tipo_endereco',
+'grau_instrucao',
+'estado_onde_nasceu',
+'estado_onde_reside',
+'possui_telefone_celular',
+'possui_email',
+'possui_cartao_diners',
+'possui_cartao_amex',
+'possui_outros_cartoes',
+'qtde_contas_bancarias_especiais',
+'estado_onde_trabalha',
+'codigo_area_telefone_trabalho',
+'ocupacao',
+'profissao_companheiro',
+'grau_instrucao_companheiro',
+'local_onde_reside',
+'local_onde_trabalha'
 ```
 
 **2. Colunas binarizadas:**
 
 ```
-'tipo_vendedor'
+'possui_telefone_residencial'
 ```
 
 **3. Colunas codificadas (*One-hot Encoding*):**
 
 ```
-'tipo',
-'bairro'
-```
-
-**4. Colunas normalizadas:**
-
-```
-'bairro'
+'sexo',
+'vinculo_formal_com_empresa',
+'possui_telefone_trabalho',
+'possui_carro',
+'forma_envio_solicitacao'
 ```
 
 ### Tratamento de Valores Nulos
