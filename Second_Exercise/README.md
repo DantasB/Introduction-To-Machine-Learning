@@ -6,7 +6,7 @@ Aluno: Bruno Dantas de Paiva
 
 ## Organização do Repositório
 
-Nesse repositório todo o código desenvolvido se encontra no [jupyter](https://github.com/DantasB/Introduction-To-Machine-Learning/blob/main/Second_Exercise/Trabalho_2_EEL891.ipynb). Este foi utilizado para submeter o dado ao [Kaggle](https://www.kaggle.com/c/eel891-202101-trabalho-2/).
+Nesse repositório todo o código desenvolvido se encontra no [jupyter](https://github.com/DantasB/introduction-to-machine-learning/blob/main/Second_Exercise/Trabalho_2_EEL891.ipynb). Este foi utilizado para submeter o dado ao [Kaggle](https://www.kaggle.com/c/eel891-202101-trabalho-2/).
 
 ## Tratamento do dataset
 
